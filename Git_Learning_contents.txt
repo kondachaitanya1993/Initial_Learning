@@ -8,6 +8,5 @@ what is a version control s/w?
 need for a hosting service- it allows one to keep the source code safe and share the code to others. 
 github, bitbucket are hosting services
 
-
-here created a branch2 using previous commits as initial point
+here created a branch2 using previous commit 
 
