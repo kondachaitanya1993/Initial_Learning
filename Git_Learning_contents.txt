@@ -9,6 +9,7 @@ need for a hosting service- it allows one to keep the source code safe and share
 github, bitbucket are hosting services
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Here created a side branch
 
 second commit to be performed and need to learn gitbash 
@@ -16,4 +17,7 @@ second commit to be performed and need to learn gitbash
 
 here created a branch2 using previous commits as initial point
 >>>>>>> parent of 4ca7cb5 (edited branch2)
+=======
+here created a branch2 using previous commit 
+>>>>>>> main
 
