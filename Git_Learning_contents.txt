@@ -1,0 +1,6 @@
+What is a version control?
+-it is the practice of tracking and managing the changes applied to s/w code. 
+-version control systems are s/w tools help s/w teams to manage the changes to s/w code over time.
+
+what is a version control s/w?
+-it is a s/w where the changes to the s/w code is maintained in the form of data bases. these can be refered back to fix issues.  
