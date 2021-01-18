@@ -4,3 +4,7 @@ What is a version control?
 
 what is a version control s/w?
 -it is a s/w where the changes to the s/w code is maintained in the form of data bases. these can be refered back to fix issues.  
+
+need for a hosting service- it allows one to keep the source code safe and share the code to others. 
+github, bitbucket are hosting services
+
